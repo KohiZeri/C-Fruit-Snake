@@ -1,15 +1,2 @@
-The player maneuvers the end of a growing snake tail
-
-The objective of the game is to get as many points possible and trying not to collide with your tail
-
-In order to gain points you must direct your snake to collide with randomized fruits on the screen
-
-To move up press your w key
-
-To move doen press your s key
-
-To move left press your a key
-
-To move right press your d key
-
-Good luck and have fun
+Fruit Snake game created from C++
+Used OOP, Inheritance, Polymorphism, Vector and classes to implement the classic fruit snake game where the objective is for the player to maneuver the end of a growing snake tail while trying not to collide with the wall or itself. 
